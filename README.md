@@ -1,5 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Saraswathi Pandit</h1>
 <h3 align="center">A self-taught Data Science Enthusiast from India</h3>
+<a href="mailto:saras2000swathi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="saras2000swathi@gmail.com" height="20" width="85" /></a>
+<a href="https://www.linkedin.com/in/saraswathi-pandit-806796183/" target="blank"><img align="center" src="https://img.shields.io/badge/-SaraswathiPandit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saraswathi-pandit-806796183/" alt="Saraswathi Pandit" height="20" width="100" /></a>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/03c817d98ada6ce36ce4b8a2b73f8705.gif">
 
@@ -11,7 +13,7 @@
 
 - 💬 Ask me about **Python,SQL,Statistics,Power BI and Data Analytics**
 
-- 📫 How to reach me **saras2000swathi@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/saraswathi-pandit-806796183/)**
 
 - ⚡ Fun fact **I am an Inquisitive Person**
 

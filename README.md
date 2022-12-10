@@ -1,3 +1,4 @@
+![logo](https://github.com/saraswathi2000/saraswathi2000/blob/main/SaraswathiPandit.png)
 <h1 align="center">Hey! 👋, I'm Saraswathi Pandit</h1>
 <h3 align="center">A self-taught Data Science Enthusiast from India</h3>
 <a href="mailto:saras2000swathi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="saras2000swathi@gmail.com" height="20" width="85" /></a>

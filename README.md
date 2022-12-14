@@ -1,8 +1,8 @@
 ![logo](https://github.com/saraswathi2000/saraswathi2000/blob/main/SaraswathiPandit.png)
 <h1 align="center">Hey! 👋, I'm Saraswathi Pandit</h1>
 <h3 align="center">A self-taught Data Science Enthusiast from India</h3>
-<a href="mailto:saras2000swathi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="saras2000swathi@gmail.com" height="20" width="85" /></a>
-<a href="https://www.linkedin.com/in/saraswathi-pandit-806796183/" target="blank"><img align="center" src="https://img.shields.io/badge/-SaraswathiPandit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saraswathi-pandit-806796183/" alt="Saraswathi Pandit" height="20" width="100" /></a>
+<a href="mailto:saras2000swathi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="saras2000swathi@gmail.com" height="20" width="120" /></a>
+<a href="https://www.linkedin.com/in/saraswathi-pandit-806796183/" target="blank"><img align="center" src="https://img.shields.io/badge/-SaraswathiPandit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saraswathi-pandit-806796183/" alt="Saraswathi Pandit" height="20" width="120" /></a>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/03c817d98ada6ce36ce4b8a2b73f8705.gif">
 

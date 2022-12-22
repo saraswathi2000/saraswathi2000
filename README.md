@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/saraswathi pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saraswathi pandit" height="30" width="40" /></a>
 <a href="https://kaggle.com/saraswathi2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saraswathi2000" height="30" width="40" /></a>
-<a href="https://www.novypro.com/profile_projects/saraswathi" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FNew_Power_BI_Logo.svg%2F2048px-New_Power_BI_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&tbnid=kLeozCMyFzwNdM&vet=12ahUKEwi_pof694z8AhW4iNgFHQdEBYIQMygAegUIARC_AQ..i&docid=fElY9UANHz96jM&w=2048&h=2048&q=power%20bi%20svg&hl=en&ved=2ahUKEwi_pof694z8AhW4iNgFHQdEBYIQMygAegUIARC_AQ" alt="saraswathi2000" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

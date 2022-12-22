@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saraswathi pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saraswathi pandit" height="30" width="40" /></a>
 <a href="https://kaggle.com/saraswathi2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saraswathi2000" height="30" width="40" /></a>
+<a href="https://kaggle.com/saraswathi2000(https://www.novypro.com/profile_projects/saraswathi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/powerbi.svg" alt="saraswathi2000" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

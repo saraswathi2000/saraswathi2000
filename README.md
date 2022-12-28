@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+sans&size=35&pause=1000&color=0E3367&width=900&lines=Welcome+to+Saraswathi's+Github+Profile+!)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Saraswathi's+GitHub+Profile!)](https://git.io/typing-svg)
 ![logo](https://github.com/saraswathi2000/saraswathi2000/blob/main/SaraswathiPandit.png)
 <h1 align="center">Hey! 👋, I'm Saraswathi Pandit</h1>
 <h3 align="center">A self-taught Data Science Enthusiast from India</h3>

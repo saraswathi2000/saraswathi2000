@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+sans&size=35&pause=1000&color=0E3367&width=900&lines=Welcome+to+Saraswathi's+Github+Profile+!)](https://git.io/typing-svg)
 
 ![logo](https://github.com/saraswathi2000/saraswathi2000/blob/main/SaraswathiPandit.png)
@@ -34,4 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saraswathi2000&show_icons=true&theme=radical&width="400" alt="saraswathi2000" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saraswathi2000&theme=radical&width="400" alt="saraswathi2000" /></p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=saraswathi2000&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/saraswathi2000/saraswathi2000))
+
+
+[![Saraswathi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saraswathi2000&theme=react-dark)](https://github.com/saraswathi2000/saraswathi2000)
